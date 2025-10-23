@@ -14,7 +14,7 @@ A simple and responsive web app for managing employee information. Users can sea
 
 6.Background image integration for a professional look
 
-How It Works
+# How It Works
 Search: Type in the search bar to filter employees by name.
 
 Add: Fill in the name, role, and email fields, then click “Add Employee.”
