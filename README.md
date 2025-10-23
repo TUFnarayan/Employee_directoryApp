@@ -14,6 +14,8 @@ A simple and responsive web app for managing employee information. Users can sea
 
 6.Background image integration for a professional look
 
+7.Optional TypeScript module for managing employee logic
+
 # How It Works
 Search: Type in the search bar to filter employees by name.
 
@@ -26,11 +28,13 @@ View Details: Click on a card to open a modal with full employee info.
 # Tech Stack
 HTML5
 
-CSS3 (no frameworks)
+CSS (no frameworks)
 
 JavaScript (ES6)
 
 jQuery
 
+TypeScript (logic module available, not integrated into UI)
+
 # Background
-The app uses a soft-focus office background (bg.png) to enhance visual polish while keeping content readable.
+The app uses a soft-focus office background (bg.png) to enhance visual polish while keeping content readable
